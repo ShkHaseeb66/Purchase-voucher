@@ -1,0 +1,76 @@
+.date-box{
+    width: 25%;
+    background: #fff;
+}
+#section-2{
+    margin-top: 20px;
+}
+.heading{
+    text-align: center;
+    color: #ffff;
+
+}
+.col-lg-2 label{
+
+color: #ffff;
+font-weight: 600;
+}
+.container{
+    background-color:rgb(57, 56, 54)
+}
+.col-lg-8  label{ 
+color: #ffff;
+font-weight: 600;
+}
+.col-lg-4 label{
+    font-weight: 600;
+    color: #ffff;
+
+    /* margin-top: 20px; */
+
+}
+.party{
+    padding: 10px 0;
+    width: 25%;
+}
+.col-lg-3 label{
+    color: #fff;
+
+}
+.item-box{
+width: 40%;
+padding: 5px 0;
+
+}
+
+.qty{
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+}
+.category{
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+}
+.unit{
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+}
+.rate{
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+}
+.gst{
+color: #fff;
+font-weight: 600;
+    font-size: 20px;
+}
+.total{
+    color: #fff;
+    font-weight: 600;
+    font-size: 20px;
+
+}
